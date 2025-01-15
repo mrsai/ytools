@@ -33,3 +33,9 @@ pnpm build
 ```sh
 pnpm lint
 ```
+
+### 项目介绍
+
+### 这是一个采用 vue3 + vue-router + vite6 + shadcn-vue + js + tailwind.css + postcss 的项目
+
+### 这个项目的核心目标是构建一个像https://it-tools.tech/一样的工具类的网站
