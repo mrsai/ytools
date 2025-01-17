@@ -13,7 +13,7 @@ import { Button } from '@/components/ui/button'
           <slot name="title"></slot>
         </h3>
       </div>
-      <Button size="sm">使用</Button>
+      <Button>使用</Button>
     </div>
     <p class="text-sm text-gray-500">
       <slot name="description"></slot>

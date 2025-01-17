@@ -14,4 +14,6 @@ html {
 body {
   width: 100vw;
   overflow: hidden;
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
 }
